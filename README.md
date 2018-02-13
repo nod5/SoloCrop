@@ -2,7 +2,7 @@
 
 # SoloCrop
 
-SoloCrop.ahk -- version 2018-01-13 -- by Nod5 -- GPLv3 -- Made in Windows 10
+SoloCrop.ahk -- version 2018-02-13 -- by Nod5 -- GPLv3 -- Made in Windows 10
 
 AutoHotkey program to quickly crop many images in sequence
 
