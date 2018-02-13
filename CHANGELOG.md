@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - accept multiple image filepaths as command line parameters
 - accept multiple image filepaths on separate lines in a .txt file as command line parameter
 - .png image support
-- keyboard shortcur expand/contract previous rectangle
+- keyboard shortcurt to expand/contract previous rectangle
 - separate previous crop rectangles for R/L suffixed image inputs
 
 ### Changed
